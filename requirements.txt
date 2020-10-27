@@ -14,7 +14,7 @@ chardet==3.0.4
 Click==7.0
 colorama==0.4.1
 contextlib2==0.5.5
-cryptography==2.6.1
+cryptography==3.2
 cycler==0.10.0
 cyordereddict==1.0.0
 Cython==0.29.2
